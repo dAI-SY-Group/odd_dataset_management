@@ -1,0 +1,6 @@
+[submodule "odd_dataset_management_usnet"]
+	path = odd_dataset_management_usnet
+	url = git@github.com:mrabe-daisy/odd_dataset_management_usnet.git
+[submodule "odd_dataset_management_depth_to_normal"]
+	path = odd_dataset_management_depth_to_normal
+	url = git@github.com:mrabe-daisy/odd_dataset_management_depth_to_normal.git
