@@ -4,6 +4,9 @@ This repository contains the reproduction package for the paper 'ODD-Driven
 Dataset Management for Traceable Evaluation of Automated-Driving Perception
 Models'.
 
+In the folder `dataset_definitions` you can find xml files which define which
+files were members of the given dataset used in the paper.
+
 In the folder `kitti_meta_parser` you can find the parsing script to map KITTI
 Road images to KITTI Raw metadata to filter the speed of the vehicle.
 
@@ -14,5 +17,8 @@ Road-Former model.
 In the submodule folder `odd_dataset_management_usnet` you can find the
 implementation of the USNet model used in the paper.
 
+In the submodule folder `odd_dataset_management_road-former` you can find the
+implementation of the Road-Former model used in the paper.
+
 In the folder `road-former_configs` you can find the config files used to train
-the Road-Former models used in the paper.
+the Road-Former models.

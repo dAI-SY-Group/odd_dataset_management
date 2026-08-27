@@ -1,6 +1,5 @@
 dataset_type = 'MMKittiDataset'
-# NOTE: adjust this value depeding on which split you want to train
-data_root = './kitti_road/city/data/KITTI'
+data_root = './kitti_road/original___val_seq_05/data/KITTI'
 sample_scale = (1280, 384)
 train_pipeline = [
     dict(type='LoadKittiImageFromFile', to_float32=True, modality='normal'),
@@ -36,8 +35,7 @@ train_dataloader = dict(
     sampler=dict(type='DefaultSampler', shuffle=True),
     dataset=dict(
         type='MMKittiDataset',
-        # NOTE: adjust this value depeding on which split you want to train
-        data_root = './kitti_road/city/data/KITTI'
+        data_root = './kitti_road/original___val_seq_05/data/KITTI',
         reduce_zero_label=False,
         img_suffix='.png',
         modality='normal',
@@ -72,8 +70,7 @@ val_dataloader = dict(
     sampler=dict(type='DefaultSampler', shuffle=False),
     dataset=dict(
         type='MMKittiDataset',
-        # NOTE: adjust this value depeding on which split you want to train
-        data_root = './kitti_road/city/data/KITTI'
+        data_root = './kitti_road/original___val_seq_05/data/KITTI',
         reduce_zero_label=False,
         img_suffix='.png',
         modality='normal',
@@ -101,8 +98,7 @@ test_dataloader = dict(
     sampler=dict(type='DefaultSampler', shuffle=True),
     dataset=dict(
         type='MMKittiDataset',
-        # NOTE: adjust this value depeding on which split you want to train
-        data_root = './kitti_road/city/data/KITTI'
+        data_root = './kitti_road/original___val_seq_05/data/KITTI',
         reduce_zero_label=False,
         img_suffix='.png',
         modality='normal',
@@ -285,7 +281,7 @@ optim_wrapper = dict(
     paramwise_cfg=dict(
         custom_keys=dict(backbone=dict(lr_mult=0.1, decay_mult=1.0)),
         norm_decay_mult=0.0))
-max_epochs = 50
+max_epochs = 250
 param_scheduler = [
     dict(
         type='LinearLR',
@@ -297,7 +293,7 @@ param_scheduler = [
     dict(type='PolyLR', eta_min=0, power=0.9, begin=0, end=400, by_epoch=True)
 ]
 train_cfg = dict(
-    type='EpochBasedTrainLoop', max_epochs=50, val_begin=1, val_interval=1)
+    type='EpochBasedTrainLoop', max_epochs=250, val_begin=1, val_interval=1)
 val_cfg = dict(type='ValLoop')
 test_cfg = dict(type='TestLoop')
 default_hooks = dict(
@@ -330,4 +326,4 @@ log_level = 'INFO'
 resume = False
 tta_model = dict(type='SegTTAModel')
 launcher = 'none'
-work_dir = './work_dirs/roadformer2_convnext-b_kitti-384x1280'
+work_dir = './work_dirs/roadformer2_convnext-b_kitti-384x1280___original___val_seq_05___non-pretrained'
