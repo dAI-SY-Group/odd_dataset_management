@@ -1,0 +1,3802 @@
+[
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "umm_55___val_seq_01",
+    "val_dataset": "umm_55___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.972,
+    "precision": 0.975,
+    "recall": 0.97
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "umm_55___val_seq_02",
+    "val_dataset": "umm_55___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.914,
+    "precision": 0.853,
+    "recall": 0.984
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "umm_55___val_seq_03",
+    "val_dataset": "umm_55___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.979,
+    "precision": 0.971,
+    "recall": 0.986
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "umm_55___val_seq_04",
+    "val_dataset": "umm_55___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.976,
+    "precision": 0.979,
+    "recall": 0.974
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "umm_55___val_seq_05",
+    "val_dataset": "umm_55___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.961,
+    "precision": 0.95,
+    "recall": 0.972
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "umm_55___val_seq_01",
+    "val_dataset": "umm_55___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.975,
+    "precision": 0.97,
+    "recall": 0.981
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "umm_55___val_seq_02",
+    "val_dataset": "umm_55___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.948,
+    "precision": 0.932,
+    "recall": 0.964
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "umm_55___val_seq_03",
+    "val_dataset": "umm_55___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.976,
+    "precision": 0.969,
+    "recall": 0.982
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "umm_55___val_seq_04",
+    "val_dataset": "umm_55___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.972,
+    "precision": 0.964,
+    "recall": 0.981
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "umm_55___val_seq_05",
+    "val_dataset": "umm_55___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.961,
+    "precision": 0.963,
+    "recall": 0.96
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "umm_55___val_seq_01",
+    "val_dataset": "umm_55___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.9786,
+    "precision": 0.9762,
+    "recall": 0.981
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "umm_55___val_seq_02",
+    "val_dataset": "umm_55___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.9489,
+    "precision": 0.9186,
+    "recall": 0.9813
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "umm_55___val_seq_03",
+    "val_dataset": "umm_55___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.9752,
+    "precision": 0.9721,
+    "recall": 0.9784
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "umm_55___val_seq_04",
+    "val_dataset": "umm_55___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.9717,
+    "precision": 0.9563,
+    "recall": 0.9877
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "umm_55___val_seq_05",
+    "val_dataset": "umm_55___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.963,
+    "precision": 0.9613,
+    "recall": 0.9648
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "umm_55___val_seq_01",
+    "val_dataset": "umm_55___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.9773,
+    "precision": 0.9711,
+    "recall": 0.9837
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "umm_55___val_seq_02",
+    "val_dataset": "umm_55___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.8694,
+    "precision": 0.7833,
+    "recall": 0.9768
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "umm_55___val_seq_03",
+    "val_dataset": "umm_55___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.9638,
+    "precision": 0.9618,
+    "recall": 0.9659
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "umm_55___val_seq_04",
+    "val_dataset": "umm_55___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.9564,
+    "precision": 0.9332,
+    "recall": 0.9808
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "umm_55___val_seq_05",
+    "val_dataset": "umm_55___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.9113,
+    "precision": 0.9474,
+    "recall": 0.8778
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_01",
+    "val_dataset": "umm_55___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.976,
+    "precision": 0.984,
+    "recall": 0.969
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_02",
+    "val_dataset": "umm_55___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.982,
+    "precision": 0.984,
+    "recall": 0.979
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_03",
+    "val_dataset": "umm_55___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.976,
+    "precision": 0.981,
+    "recall": 0.97
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_04",
+    "val_dataset": "umm_55___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.982,
+    "precision": 0.986,
+    "recall": 0.978
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_05",
+    "val_dataset": "umm_55___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.976,
+    "precision": 0.97,
+    "recall": 0.982
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_01",
+    "val_dataset": "umm_55___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.977,
+    "precision": 0.984,
+    "recall": 0.97
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_02",
+    "val_dataset": "umm_55___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.977,
+    "precision": 0.968,
+    "recall": 0.986
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_03",
+    "val_dataset": "umm_55___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.976,
+    "precision": 0.979,
+    "recall": 0.972
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_04",
+    "val_dataset": "umm_55___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.982,
+    "precision": 0.983,
+    "recall": 0.981
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_05",
+    "val_dataset": "umm_55___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.974,
+    "precision": 0.974,
+    "recall": 0.974
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_01",
+    "val_dataset": "umm_55___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.9747,
+    "precision": 0.9843,
+    "recall": 0.9653
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_02",
+    "val_dataset": "umm_55___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.9184,
+    "precision": 0.8671,
+    "recall": 0.976
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_03",
+    "val_dataset": "umm_55___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.9756,
+    "precision": 0.9794,
+    "recall": 0.9719
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_04",
+    "val_dataset": "umm_55___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.9745,
+    "precision": 0.9937,
+    "recall": 0.956
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_05",
+    "val_dataset": "umm_55___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.9739,
+    "precision": 0.972,
+    "recall": 0.9758
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_01",
+    "val_dataset": "umm_55___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.9845,
+    "precision": 0.9874,
+    "recall": 0.9817
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_02",
+    "val_dataset": "umm_55___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.9327,
+    "precision": 0.8825,
+    "recall": 0.9889
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_03",
+    "val_dataset": "umm_55___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.963,
+    "precision": 0.9652,
+    "recall": 0.9607
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_04",
+    "val_dataset": "umm_55___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.9724,
+    "precision": 0.975,
+    "recall": 0.9698
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_05",
+    "val_dataset": "umm_55___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.9743,
+    "precision": 0.9629,
+    "recall": 0.986
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "umm___val_seq_01",
+    "val_dataset": "umm_55___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.98,
+    "precision": 0.982,
+    "recall": 0.978
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "umm___val_seq_02",
+    "val_dataset": "umm_55___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.929,
+    "precision": 0.881,
+    "recall": 0.982
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "umm___val_seq_03",
+    "val_dataset": "umm_55___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.975,
+    "precision": 0.975,
+    "recall": 0.974
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "umm___val_seq_04",
+    "val_dataset": "umm_55___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.98,
+    "precision": 0.976,
+    "recall": 0.984
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "umm___val_seq_05",
+    "val_dataset": "umm_55___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.975,
+    "precision": 0.968,
+    "recall": 0.983
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "umm___val_seq_01",
+    "val_dataset": "umm_55___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.976,
+    "precision": 0.983,
+    "recall": 0.97
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "umm___val_seq_02",
+    "val_dataset": "umm_55___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.925,
+    "precision": 0.869,
+    "recall": 0.99
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "umm___val_seq_03",
+    "val_dataset": "umm_55___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.974,
+    "precision": 0.962,
+    "recall": 0.987
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "umm___val_seq_04",
+    "val_dataset": "umm_55___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.973,
+    "precision": 0.957,
+    "recall": 0.99
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "umm___val_seq_05",
+    "val_dataset": "umm_55___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.975,
+    "precision": 0.974,
+    "recall": 0.977
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu___val_seq_01",
+    "val_dataset": "umm_55___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.917,
+    "precision": 0.986,
+    "recall": 0.858
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu___val_seq_02",
+    "val_dataset": "umm_55___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.972,
+    "precision": 0.968,
+    "recall": 0.976
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu___val_seq_03",
+    "val_dataset": "umm_55___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.945,
+    "precision": 0.983,
+    "recall": 0.909
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu___val_seq_04",
+    "val_dataset": "umm_55___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.977,
+    "precision": 0.992,
+    "recall": 0.962
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu___val_seq_05",
+    "val_dataset": "umm_55___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.972,
+    "precision": 0.983,
+    "recall": 0.96
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu___val_seq_01",
+    "val_dataset": "umm_55___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.943,
+    "precision": 0.984,
+    "recall": 0.905
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu___val_seq_02",
+    "val_dataset": "umm_55___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.97,
+    "precision": 0.97,
+    "recall": 0.969
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu___val_seq_03",
+    "val_dataset": "umm_55___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.942,
+    "precision": 0.987,
+    "recall": 0.901
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu___val_seq_04",
+    "val_dataset": "umm_55___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.968,
+    "precision": 0.993,
+    "recall": 0.944
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu___val_seq_05",
+    "val_dataset": "umm_55___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.969,
+    "precision": 0.983,
+    "recall": 0.955
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um___val_seq_01",
+    "val_dataset": "umm_55___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.957,
+    "precision": 0.988,
+    "recall": 0.928
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um___val_seq_02",
+    "val_dataset": "umm_55___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.956,
+    "precision": 0.945,
+    "recall": 0.968
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um___val_seq_03",
+    "val_dataset": "umm_55___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.941,
+    "precision": 0.984,
+    "recall": 0.902
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um___val_seq_04",
+    "val_dataset": "umm_55___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.974,
+    "precision": 0.991,
+    "recall": 0.956
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um___val_seq_05",
+    "val_dataset": "umm_55___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.962,
+    "precision": 0.988,
+    "recall": 0.937
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um___val_seq_01",
+    "val_dataset": "umm_55___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.895,
+    "precision": 0.986,
+    "recall": 0.819
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um___val_seq_02",
+    "val_dataset": "umm_55___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.969,
+    "precision": 0.972,
+    "recall": 0.966
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um___val_seq_03",
+    "val_dataset": "umm_55___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.937,
+    "precision": 0.979,
+    "recall": 0.898
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um___val_seq_04",
+    "val_dataset": "umm_55___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.97,
+    "precision": 0.993,
+    "recall": 0.949
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um___val_seq_05",
+    "val_dataset": "umm_55___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.959,
+    "precision": 0.992,
+    "recall": 0.927
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "uu___val_seq_01",
+    "val_dataset": "umm_55___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.884,
+    "precision": 0.986,
+    "recall": 0.801
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "uu___val_seq_02",
+    "val_dataset": "umm_55___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.955,
+    "precision": 0.952,
+    "recall": 0.958
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "uu___val_seq_03",
+    "val_dataset": "umm_55___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.954,
+    "precision": 0.984,
+    "recall": 0.927
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "uu___val_seq_04",
+    "val_dataset": "umm_55___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.973,
+    "precision": 0.989,
+    "recall": 0.957
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "uu___val_seq_05",
+    "val_dataset": "umm_55___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.941,
+    "precision": 0.98,
+    "recall": 0.906
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "uu___val_seq_01",
+    "val_dataset": "umm_55___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.881,
+    "precision": 0.989,
+    "recall": 0.794
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "uu___val_seq_02",
+    "val_dataset": "umm_55___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.937,
+    "precision": 0.981,
+    "recall": 0.897
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "uu___val_seq_03",
+    "val_dataset": "umm_55___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.908,
+    "precision": 0.988,
+    "recall": 0.839
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "uu___val_seq_04",
+    "val_dataset": "umm_55___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.852,
+    "precision": 0.994,
+    "recall": 0.746
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "uu___val_seq_05",
+    "val_dataset": "umm_55___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.912,
+    "precision": 0.985,
+    "recall": 0.848
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random___val_seq_01",
+    "val_dataset": "umm_55___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.958,
+    "precision": 0.983,
+    "recall": 0.934
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random___val_seq_02",
+    "val_dataset": "umm_55___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.963,
+    "precision": 0.944,
+    "recall": 0.983
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random___val_seq_03",
+    "val_dataset": "umm_55___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.975,
+    "precision": 0.976,
+    "recall": 0.973
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random___val_seq_04",
+    "val_dataset": "umm_55___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.981,
+    "precision": 0.983,
+    "recall": 0.979
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random___val_seq_05",
+    "val_dataset": "umm_55___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.971,
+    "precision": 0.98,
+    "recall": 0.963
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random___val_seq_01",
+    "val_dataset": "umm_55___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.96,
+    "precision": 0.984,
+    "recall": 0.938
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random___val_seq_02",
+    "val_dataset": "umm_55___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.968,
+    "precision": 0.952,
+    "recall": 0.984
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random___val_seq_03",
+    "val_dataset": "umm_55___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.974,
+    "precision": 0.973,
+    "recall": 0.975
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random___val_seq_04",
+    "val_dataset": "umm_55___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.965,
+    "precision": 0.985,
+    "recall": 0.945
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random___val_seq_05",
+    "val_dataset": "umm_55___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.97,
+    "precision": 0.982,
+    "recall": 0.958
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu_part_random___val_seq_01",
+    "val_dataset": "umm_55___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.958,
+    "precision": 0.989,
+    "recall": 0.928
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu_part_random___val_seq_02",
+    "val_dataset": "umm_55___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.969,
+    "precision": 0.969,
+    "recall": 0.97
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu_part_random___val_seq_03",
+    "val_dataset": "umm_55___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.952,
+    "precision": 0.983,
+    "recall": 0.923
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu_part_random___val_seq_04",
+    "val_dataset": "umm_55___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.975,
+    "precision": 0.989,
+    "recall": 0.961
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu_part_random___val_seq_05",
+    "val_dataset": "umm_55___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.962,
+    "precision": 0.983,
+    "recall": 0.943
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu_part_random___val_seq_01",
+    "val_dataset": "umm_55___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.953,
+    "precision": 0.991,
+    "recall": 0.917
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu_part_random___val_seq_02",
+    "val_dataset": "umm_55___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.953,
+    "precision": 0.983,
+    "recall": 0.926
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu_part_random___val_seq_03",
+    "val_dataset": "umm_55___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.957,
+    "precision": 0.989,
+    "recall": 0.928
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu_part_random___val_seq_04",
+    "val_dataset": "umm_55___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.974,
+    "precision": 0.989,
+    "recall": 0.96
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu_part_random___val_seq_05",
+    "val_dataset": "umm_55___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.966,
+    "precision": 0.984,
+    "recall": 0.949
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random_small___val_seq_01",
+    "val_dataset": "umm_55___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.967,
+    "precision": 0.987,
+    "recall": 0.948
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random_small___val_seq_02",
+    "val_dataset": "umm_55___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.948,
+    "precision": 0.926,
+    "recall": 0.971
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random_small___val_seq_03",
+    "val_dataset": "umm_55___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.97,
+    "precision": 0.982,
+    "recall": 0.958
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random_small___val_seq_04",
+    "val_dataset": "umm_55___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.972,
+    "precision": 0.982,
+    "recall": 0.963
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random_small___val_seq_05",
+    "val_dataset": "umm_55___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.968,
+    "precision": 0.966,
+    "recall": 0.97
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random_small___val_seq_01",
+    "val_dataset": "umm_55___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.96,
+    "precision": 0.99,
+    "recall": 0.932
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random_small___val_seq_02",
+    "val_dataset": "umm_55___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.942,
+    "precision": 0.92,
+    "recall": 0.964
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random_small___val_seq_03",
+    "val_dataset": "umm_55___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.97,
+    "precision": 0.984,
+    "recall": 0.956
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random_small___val_seq_04",
+    "val_dataset": "umm_55___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.969,
+    "precision": 0.963,
+    "recall": 0.976
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random_small___val_seq_05",
+    "val_dataset": "umm_55___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.963,
+    "precision": 0.983,
+    "recall": 0.944
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random_small___val_seq_01",
+    "val_dataset": "umm_55___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.9558,
+    "precision": 0.9822,
+    "recall": 0.9309
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random_small___val_seq_02",
+    "val_dataset": "umm_55___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.9659,
+    "precision": 0.9561,
+    "recall": 0.976
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random_small___val_seq_03",
+    "val_dataset": "umm_55___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.9673,
+    "precision": 0.9795,
+    "recall": 0.9554
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random_small___val_seq_04",
+    "val_dataset": "umm_55___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.9749,
+    "precision": 0.9865,
+    "recall": 0.9635
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random_small___val_seq_05",
+    "val_dataset": "umm_55___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.9687,
+    "precision": 0.966,
+    "recall": 0.9714
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random_small___val_seq_01",
+    "val_dataset": "umm_55___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.9144,
+    "precision": 0.9663,
+    "recall": 0.8678
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random_small___val_seq_02",
+    "val_dataset": "umm_55___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.9058,
+    "precision": 0.8872,
+    "recall": 0.9253
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random_small___val_seq_03",
+    "val_dataset": "umm_55___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.954,
+    "precision": 0.9696,
+    "recall": 0.9389
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random_small___val_seq_04",
+    "val_dataset": "umm_55___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.9296,
+    "precision": 0.9911,
+    "recall": 0.8752
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random_small___val_seq_05",
+    "val_dataset": "umm_55___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.9371,
+    "precision": 0.9622,
+    "recall": 0.9134
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "city___val_seq_01",
+    "val_dataset": "city___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.972,
+    "precision": 0.976,
+    "recall": 0.968
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "city___val_seq_02",
+    "val_dataset": "city___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.968,
+    "precision": 0.978,
+    "recall": 0.958
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "city___val_seq_03",
+    "val_dataset": "city___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.978,
+    "precision": 0.982,
+    "recall": 0.974
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "city___val_seq_04",
+    "val_dataset": "city___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.967,
+    "precision": 0.966,
+    "recall": 0.969
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "city___val_seq_05",
+    "val_dataset": "city___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.97,
+    "precision": 0.971,
+    "recall": 0.968
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "city___val_seq_01",
+    "val_dataset": "city___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.968,
+    "precision": 0.969,
+    "recall": 0.966
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "city___val_seq_02",
+    "val_dataset": "city___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.964,
+    "precision": 0.972,
+    "recall": 0.956
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "city___val_seq_03",
+    "val_dataset": "city___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.974,
+    "precision": 0.976,
+    "recall": 0.972
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "city___val_seq_04",
+    "val_dataset": "city___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.953,
+    "precision": 0.961,
+    "recall": 0.946
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "city___val_seq_05",
+    "val_dataset": "city___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.961,
+    "precision": 0.967,
+    "recall": 0.956
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "city___val_seq_01",
+    "val_dataset": "city___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.9729,
+    "precision": 0.9755,
+    "recall": 0.9704
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "city___val_seq_02",
+    "val_dataset": "city___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.9671,
+    "precision": 0.9796,
+    "recall": 0.9548
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "city___val_seq_03",
+    "val_dataset": "city___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.9734,
+    "precision": 0.9794,
+    "recall": 0.9675
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "city___val_seq_04",
+    "val_dataset": "city___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.9582,
+    "precision": 0.9649,
+    "recall": 0.9516
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "city___val_seq_05",
+    "val_dataset": "city___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.9651,
+    "precision": 0.9658,
+    "recall": 0.9644
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "city___val_seq_01",
+    "val_dataset": "city___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.9571,
+    "precision": 0.957,
+    "recall": 0.9573
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "city___val_seq_02",
+    "val_dataset": "city___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.9588,
+    "precision": 0.9689,
+    "recall": 0.949
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "city___val_seq_03",
+    "val_dataset": "city___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.9676,
+    "precision": 0.9645,
+    "recall": 0.9707
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "city___val_seq_04",
+    "val_dataset": "city___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.946,
+    "precision": 0.9484,
+    "recall": 0.9436
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "city___val_seq_05",
+    "val_dataset": "city___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.9559,
+    "precision": 0.9531,
+    "recall": 0.9588
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_01",
+    "val_dataset": "city___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.972,
+    "precision": 0.975,
+    "recall": 0.97
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_02",
+    "val_dataset": "city___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.971,
+    "precision": 0.98,
+    "recall": 0.962
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_03",
+    "val_dataset": "city___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.977,
+    "precision": 0.981,
+    "recall": 0.973
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_04",
+    "val_dataset": "city___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.965,
+    "precision": 0.967,
+    "recall": 0.963
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_05",
+    "val_dataset": "city___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.97,
+    "precision": 0.97,
+    "recall": 0.97
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_01",
+    "val_dataset": "city___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.971,
+    "precision": 0.971,
+    "recall": 0.97
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_02",
+    "val_dataset": "city___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.967,
+    "precision": 0.975,
+    "recall": 0.958
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_03",
+    "val_dataset": "city___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.973,
+    "precision": 0.976,
+    "recall": 0.971
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_04",
+    "val_dataset": "city___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.955,
+    "precision": 0.96,
+    "recall": 0.949
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_05",
+    "val_dataset": "city___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.962,
+    "precision": 0.957,
+    "recall": 0.967
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_01",
+    "val_dataset": "city___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.9731,
+    "precision": 0.9743,
+    "recall": 0.9719
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_02",
+    "val_dataset": "city___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.9633,
+    "precision": 0.9842,
+    "recall": 0.9433
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_03",
+    "val_dataset": "city___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.9742,
+    "precision": 0.9718,
+    "recall": 0.9766
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_04",
+    "val_dataset": "city___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.9608,
+    "precision": 0.9746,
+    "recall": 0.9474
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_05",
+    "val_dataset": "city___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.9681,
+    "precision": 0.9688,
+    "recall": 0.9674
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_01",
+    "val_dataset": "city___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.957,
+    "precision": 0.956,
+    "recall": 0.9581
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_02",
+    "val_dataset": "city___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.9633,
+    "precision": 0.9642,
+    "recall": 0.9625
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_03",
+    "val_dataset": "city___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.966,
+    "precision": 0.9557,
+    "recall": 0.9765
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_04",
+    "val_dataset": "city___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.9382,
+    "precision": 0.9447,
+    "recall": 0.9318
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_05",
+    "val_dataset": "city___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.9525,
+    "precision": 0.9399,
+    "recall": 0.9654
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "umm___val_seq_01",
+    "val_dataset": "city___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.946,
+    "precision": 0.916,
+    "recall": 0.978
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "umm___val_seq_02",
+    "val_dataset": "city___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.937,
+    "precision": 0.903,
+    "recall": 0.974
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "umm___val_seq_03",
+    "val_dataset": "city___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.937,
+    "precision": 0.894,
+    "recall": 0.985
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "umm___val_seq_04",
+    "val_dataset": "city___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.951,
+    "precision": 0.932,
+    "recall": 0.971
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "umm___val_seq_05",
+    "val_dataset": "city___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.94,
+    "precision": 0.905,
+    "recall": 0.977
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "umm___val_seq_01",
+    "val_dataset": "city___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.931,
+    "precision": 0.89,
+    "recall": 0.975
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "umm___val_seq_02",
+    "val_dataset": "city___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.903,
+    "precision": 0.84,
+    "recall": 0.975
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "umm___val_seq_03",
+    "val_dataset": "city___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.92,
+    "precision": 0.863,
+    "recall": 0.985
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "umm___val_seq_04",
+    "val_dataset": "city___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.928,
+    "precision": 0.894,
+    "recall": 0.965
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "umm___val_seq_05",
+    "val_dataset": "city___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.918,
+    "precision": 0.866,
+    "recall": 0.977
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu___val_seq_01",
+    "val_dataset": "city___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.97,
+    "precision": 0.976,
+    "recall": 0.964
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu___val_seq_02",
+    "val_dataset": "city___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.964,
+    "precision": 0.979,
+    "recall": 0.95
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu___val_seq_03",
+    "val_dataset": "city___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.976,
+    "precision": 0.98,
+    "recall": 0.973
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu___val_seq_04",
+    "val_dataset": "city___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.959,
+    "precision": 0.969,
+    "recall": 0.949
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu___val_seq_05",
+    "val_dataset": "city___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.967,
+    "precision": 0.976,
+    "recall": 0.958
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu___val_seq_01",
+    "val_dataset": "city___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.967,
+    "precision": 0.974,
+    "recall": 0.96
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu___val_seq_02",
+    "val_dataset": "city___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.96,
+    "precision": 0.977,
+    "recall": 0.944
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu___val_seq_03",
+    "val_dataset": "city___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.967,
+    "precision": 0.974,
+    "recall": 0.96
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu___val_seq_04",
+    "val_dataset": "city___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.939,
+    "precision": 0.972,
+    "recall": 0.908
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu___val_seq_05",
+    "val_dataset": "city___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.956,
+    "precision": 0.965,
+    "recall": 0.947
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um___val_seq_01",
+    "val_dataset": "city___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.966,
+    "precision": 0.979,
+    "recall": 0.954
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um___val_seq_02",
+    "val_dataset": "city___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.958,
+    "precision": 0.974,
+    "recall": 0.943
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um___val_seq_03",
+    "val_dataset": "city___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.969,
+    "precision": 0.974,
+    "recall": 0.964
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um___val_seq_04",
+    "val_dataset": "city___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.959,
+    "precision": 0.973,
+    "recall": 0.945
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um___val_seq_05",
+    "val_dataset": "city___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.958,
+    "precision": 0.97,
+    "recall": 0.946
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um___val_seq_01",
+    "val_dataset": "city___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.953,
+    "precision": 0.962,
+    "recall": 0.944
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um___val_seq_02",
+    "val_dataset": "city___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.95,
+    "precision": 0.964,
+    "recall": 0.936
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um___val_seq_03",
+    "val_dataset": "city___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.957,
+    "precision": 0.972,
+    "recall": 0.942
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um___val_seq_04",
+    "val_dataset": "city___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.933,
+    "precision": 0.946,
+    "recall": 0.921
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um___val_seq_05",
+    "val_dataset": "city___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.943,
+    "precision": 0.962,
+    "recall": 0.924
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "uu___val_seq_01",
+    "val_dataset": "city___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.965,
+    "precision": 0.976,
+    "recall": 0.955
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "uu___val_seq_02",
+    "val_dataset": "city___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.96,
+    "precision": 0.981,
+    "recall": 0.941
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "uu___val_seq_03",
+    "val_dataset": "city___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.965,
+    "precision": 0.979,
+    "recall": 0.951
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "uu___val_seq_04",
+    "val_dataset": "city___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.952,
+    "precision": 0.97,
+    "recall": 0.935
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "uu___val_seq_05",
+    "val_dataset": "city___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.941,
+    "precision": 0.98,
+    "recall": 0.905
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "uu___val_seq_01",
+    "val_dataset": "city___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.949,
+    "precision": 0.972,
+    "recall": 0.927
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "uu___val_seq_02",
+    "val_dataset": "city___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.947,
+    "precision": 0.974,
+    "recall": 0.921
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "uu___val_seq_03",
+    "val_dataset": "city___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.952,
+    "precision": 0.978,
+    "recall": 0.927
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "uu___val_seq_04",
+    "val_dataset": "city___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.893,
+    "precision": 0.969,
+    "recall": 0.828
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "uu___val_seq_05",
+    "val_dataset": "city___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.929,
+    "precision": 0.978,
+    "recall": 0.884
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random___val_seq_01",
+    "val_dataset": "city___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.963,
+    "precision": 0.958,
+    "recall": 0.968
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random___val_seq_02",
+    "val_dataset": "city___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.965,
+    "precision": 0.976,
+    "recall": 0.955
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random___val_seq_03",
+    "val_dataset": "city___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.976,
+    "precision": 0.978,
+    "recall": 0.974
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random___val_seq_04",
+    "val_dataset": "city___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.964,
+    "precision": 0.963,
+    "recall": 0.965
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random___val_seq_05",
+    "val_dataset": "city___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.963,
+    "precision": 0.971,
+    "recall": 0.956
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random___val_seq_01",
+    "val_dataset": "city___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.954,
+    "precision": 0.958,
+    "recall": 0.951
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random___val_seq_02",
+    "val_dataset": "city___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.952,
+    "precision": 0.959,
+    "recall": 0.945
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random___val_seq_03",
+    "val_dataset": "city___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.965,
+    "precision": 0.968,
+    "recall": 0.962
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random___val_seq_04",
+    "val_dataset": "city___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.947,
+    "precision": 0.968,
+    "recall": 0.927
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random___val_seq_05",
+    "val_dataset": "city___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.955,
+    "precision": 0.967,
+    "recall": 0.942
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu_part_random___val_seq_01",
+    "val_dataset": "city___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.968,
+    "precision": 0.979,
+    "recall": 0.957
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu_part_random___val_seq_02",
+    "val_dataset": "city___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.954,
+    "precision": 0.975,
+    "recall": 0.934
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu_part_random___val_seq_03",
+    "val_dataset": "city___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.972,
+    "precision": 0.983,
+    "recall": 0.962
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu_part_random___val_seq_04",
+    "val_dataset": "city___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.961,
+    "precision": 0.968,
+    "recall": 0.954
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu_part_random___val_seq_05",
+    "val_dataset": "city___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.964,
+    "precision": 0.971,
+    "recall": 0.957
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu_part_random___val_seq_01",
+    "val_dataset": "city___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.96,
+    "precision": 0.971,
+    "recall": 0.95
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu_part_random___val_seq_02",
+    "val_dataset": "city___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.937,
+    "precision": 0.973,
+    "recall": 0.904
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu_part_random___val_seq_03",
+    "val_dataset": "city___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.965,
+    "precision": 0.982,
+    "recall": 0.949
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu_part_random___val_seq_04",
+    "val_dataset": "city___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.931,
+    "precision": 0.959,
+    "recall": 0.904
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu_part_random___val_seq_05",
+    "val_dataset": "city___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.949,
+    "precision": 0.961,
+    "recall": 0.938
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random_big___val_seq_01",
+    "val_dataset": "city___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.972,
+    "precision": 0.974,
+    "recall": 0.97
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random_big___val_seq_02",
+    "val_dataset": "city___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.967,
+    "precision": 0.975,
+    "recall": 0.959
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random_big___val_seq_03",
+    "val_dataset": "city___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.976,
+    "precision": 0.976,
+    "recall": 0.977
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random_big___val_seq_04",
+    "val_dataset": "city___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.966,
+    "precision": 0.962,
+    "recall": 0.97
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random_big___val_seq_05",
+    "val_dataset": "city___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.963,
+    "precision": 0.957,
+    "recall": 0.969
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random_big___val_seq_01",
+    "val_dataset": "city___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.964,
+    "precision": 0.962,
+    "recall": 0.965
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random_big___val_seq_02",
+    "val_dataset": "city___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.964,
+    "precision": 0.969,
+    "recall": 0.96
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random_big___val_seq_03",
+    "val_dataset": "city___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.973,
+    "precision": 0.976,
+    "recall": 0.97
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random_big___val_seq_04",
+    "val_dataset": "city___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.952,
+    "precision": 0.946,
+    "recall": 0.957
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random_big___val_seq_05",
+    "val_dataset": "city___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.958,
+    "precision": 0.96,
+    "recall": 0.956
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random_big___val_seq_01",
+    "val_dataset": "city___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.9655,
+    "precision": 0.9681,
+    "recall": 0.9629
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random_big___val_seq_02",
+    "val_dataset": "city___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.9551,
+    "precision": 0.9736,
+    "recall": 0.9373
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random_big___val_seq_03",
+    "val_dataset": "city___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.9741,
+    "precision": 0.9711,
+    "recall": 0.9771
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random_big___val_seq_04",
+    "val_dataset": "city___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.9585,
+    "precision": 0.9602,
+    "recall": 0.9568
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random_big___val_seq_05",
+    "val_dataset": "city___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.9586,
+    "precision": 0.9434,
+    "recall": 0.9743
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random_big___val_seq_01",
+    "val_dataset": "city___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.9557,
+    "precision": 0.9492,
+    "recall": 0.9624
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random_big___val_seq_02",
+    "val_dataset": "city___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.9493,
+    "precision": 0.9726,
+    "recall": 0.9271
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random_big___val_seq_03",
+    "val_dataset": "city___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.9605,
+    "precision": 0.9627,
+    "recall": 0.9583
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random_big___val_seq_04",
+    "val_dataset": "city___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.9422,
+    "precision": 0.9377,
+    "recall": 0.9467
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random_big___val_seq_05",
+    "val_dataset": "city___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.9519,
+    "precision": 0.9318,
+    "recall": 0.9729
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "umm___val_seq_01",
+    "val_dataset": "umm___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.971,
+    "precision": 0.965,
+    "recall": 0.977
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "umm___val_seq_02",
+    "val_dataset": "umm___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.964,
+    "precision": 0.952,
+    "recall": 0.975
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "umm___val_seq_03",
+    "val_dataset": "umm___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.972,
+    "precision": 0.977,
+    "recall": 0.968
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "umm___val_seq_04",
+    "val_dataset": "umm___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.974,
+    "precision": 0.974,
+    "recall": 0.975
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "umm___val_seq_05",
+    "val_dataset": "umm___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.974,
+    "precision": 0.968,
+    "recall": 0.98
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "umm___val_seq_01",
+    "val_dataset": "umm___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.97,
+    "precision": 0.966,
+    "recall": 0.974
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "umm___val_seq_02",
+    "val_dataset": "umm___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.966,
+    "precision": 0.958,
+    "recall": 0.975
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "umm___val_seq_03",
+    "val_dataset": "umm___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.966,
+    "precision": 0.954,
+    "recall": 0.978
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "umm___val_seq_04",
+    "val_dataset": "umm___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.968,
+    "precision": 0.959,
+    "recall": 0.976
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "umm___val_seq_05",
+    "val_dataset": "umm___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.973,
+    "precision": 0.972,
+    "recall": 0.973
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_01",
+    "val_dataset": "umm___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.973,
+    "precision": 0.972,
+    "recall": 0.975
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_02",
+    "val_dataset": "umm___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.975,
+    "precision": 0.978,
+    "recall": 0.972
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_03",
+    "val_dataset": "umm___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.973,
+    "precision": 0.985,
+    "recall": 0.962
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_04",
+    "val_dataset": "umm___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.974,
+    "precision": 0.981,
+    "recall": 0.966
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_05",
+    "val_dataset": "umm___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.976,
+    "precision": 0.972,
+    "recall": 0.979
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_01",
+    "val_dataset": "umm___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.973,
+    "precision": 0.978,
+    "recall": 0.968
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_02",
+    "val_dataset": "umm___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.973,
+    "precision": 0.978,
+    "recall": 0.969
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_03",
+    "val_dataset": "umm___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.968,
+    "precision": 0.976,
+    "recall": 0.96
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_04",
+    "val_dataset": "umm___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.966,
+    "precision": 0.979,
+    "recall": 0.954
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_05",
+    "val_dataset": "umm___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.974,
+    "precision": 0.975,
+    "recall": 0.972
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_01",
+    "val_dataset": "umm___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.9731,
+    "precision": 0.9756,
+    "recall": 0.9707
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_02",
+    "val_dataset": "umm___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.9676,
+    "precision": 0.9702,
+    "recall": 0.965
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_03",
+    "val_dataset": "umm___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.9692,
+    "precision": 0.9829,
+    "recall": 0.956
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_04",
+    "val_dataset": "umm___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.9618,
+    "precision": 0.9878,
+    "recall": 0.9371
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original___val_seq_05",
+    "val_dataset": "umm___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.9734,
+    "precision": 0.9739,
+    "recall": 0.9729
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_01",
+    "val_dataset": "umm___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.9743,
+    "precision": 0.9753,
+    "recall": 0.9733
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_02",
+    "val_dataset": "umm___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.9673,
+    "precision": 0.9626,
+    "recall": 0.972
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_03",
+    "val_dataset": "umm___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.971,
+    "precision": 0.9737,
+    "recall": 0.9683
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_04",
+    "val_dataset": "umm___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.9516,
+    "precision": 0.9712,
+    "recall": 0.9328
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original___val_seq_05",
+    "val_dataset": "umm___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.973,
+    "precision": 0.9634,
+    "recall": 0.9829
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu___val_seq_01",
+    "val_dataset": "umm___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.954,
+    "precision": 0.979,
+    "recall": 0.931
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu___val_seq_02",
+    "val_dataset": "umm___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.965,
+    "precision": 0.982,
+    "recall": 0.948
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu___val_seq_03",
+    "val_dataset": "umm___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.95,
+    "precision": 0.984,
+    "recall": 0.918
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu___val_seq_04",
+    "val_dataset": "umm___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.962,
+    "precision": 0.987,
+    "recall": 0.939
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu___val_seq_05",
+    "val_dataset": "umm___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.968,
+    "precision": 0.985,
+    "recall": 0.952
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu___val_seq_01",
+    "val_dataset": "umm___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.951,
+    "precision": 0.977,
+    "recall": 0.927
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu___val_seq_02",
+    "val_dataset": "umm___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.952,
+    "precision": 0.983,
+    "recall": 0.923
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu___val_seq_03",
+    "val_dataset": "umm___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.928,
+    "precision": 0.986,
+    "recall": 0.877
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu___val_seq_04",
+    "val_dataset": "umm___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.938,
+    "precision": 0.99,
+    "recall": 0.891
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu___val_seq_05",
+    "val_dataset": "umm___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.965,
+    "precision": 0.983,
+    "recall": 0.947
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um___val_seq_01",
+    "val_dataset": "umm___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.953,
+    "precision": 0.985,
+    "recall": 0.923
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um___val_seq_02",
+    "val_dataset": "umm___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.965,
+    "precision": 0.982,
+    "recall": 0.95
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um___val_seq_03",
+    "val_dataset": "umm___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.917,
+    "precision": 0.985,
+    "recall": 0.858
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um___val_seq_04",
+    "val_dataset": "umm___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.966,
+    "precision": 0.99,
+    "recall": 0.943
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um___val_seq_05",
+    "val_dataset": "umm___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.961,
+    "precision": 0.988,
+    "recall": 0.934
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um___val_seq_01",
+    "val_dataset": "umm___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.935,
+    "precision": 0.985,
+    "recall": 0.89
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um___val_seq_02",
+    "val_dataset": "umm___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.938,
+    "precision": 0.981,
+    "recall": 0.898
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um___val_seq_03",
+    "val_dataset": "umm___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.908,
+    "precision": 0.983,
+    "recall": 0.845
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um___val_seq_04",
+    "val_dataset": "umm___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.945,
+    "precision": 0.987,
+    "recall": 0.906
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um___val_seq_05",
+    "val_dataset": "umm___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.948,
+    "precision": 0.991,
+    "recall": 0.909
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "uu___val_seq_01",
+    "val_dataset": "umm___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.945,
+    "precision": 0.974,
+    "recall": 0.919
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "uu___val_seq_02",
+    "val_dataset": "umm___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.948,
+    "precision": 0.976,
+    "recall": 0.922
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "uu___val_seq_03",
+    "val_dataset": "umm___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.902,
+    "precision": 0.99,
+    "recall": 0.828
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "uu___val_seq_04",
+    "val_dataset": "umm___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.956,
+    "precision": 0.983,
+    "recall": 0.931
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "uu___val_seq_05",
+    "val_dataset": "umm___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.927,
+    "precision": 0.981,
+    "recall": 0.878
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "uu___val_seq_01",
+    "val_dataset": "umm___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.906,
+    "precision": 0.983,
+    "recall": 0.84
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "uu___val_seq_02",
+    "val_dataset": "umm___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.925,
+    "precision": 0.983,
+    "recall": 0.872
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "uu___val_seq_03",
+    "val_dataset": "umm___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.884,
+    "precision": 0.99,
+    "recall": 0.798
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "uu___val_seq_04",
+    "val_dataset": "umm___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.826,
+    "precision": 0.985,
+    "recall": 0.71
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "uu___val_seq_05",
+    "val_dataset": "umm___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.89,
+    "precision": 0.986,
+    "recall": 0.812
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random___val_seq_01",
+    "val_dataset": "umm___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.966,
+    "precision": 0.97,
+    "recall": 0.961
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random___val_seq_02",
+    "val_dataset": "umm___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.966,
+    "precision": 0.972,
+    "recall": 0.961
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random___val_seq_03",
+    "val_dataset": "umm___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.96,
+    "precision": 0.979,
+    "recall": 0.942
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random___val_seq_04",
+    "val_dataset": "umm___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.972,
+    "precision": 0.979,
+    "recall": 0.966
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_part_random___val_seq_05",
+    "val_dataset": "umm___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.971,
+    "precision": 0.98,
+    "recall": 0.961
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random___val_seq_01",
+    "val_dataset": "umm___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.964,
+    "precision": 0.98,
+    "recall": 0.948
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random___val_seq_02",
+    "val_dataset": "umm___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.968,
+    "precision": 0.98,
+    "recall": 0.956
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random___val_seq_03",
+    "val_dataset": "umm___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.963,
+    "precision": 0.969,
+    "recall": 0.958
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random___val_seq_04",
+    "val_dataset": "umm___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.955,
+    "precision": 0.984,
+    "recall": 0.927
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_part_random___val_seq_05",
+    "val_dataset": "umm___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.965,
+    "precision": 0.983,
+    "recall": 0.948
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu_part_random___val_seq_01",
+    "val_dataset": "umm___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.959,
+    "precision": 0.981,
+    "recall": 0.937
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu_part_random___val_seq_02",
+    "val_dataset": "umm___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.935,
+    "precision": 0.971,
+    "recall": 0.902
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu_part_random___val_seq_03",
+    "val_dataset": "umm___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.918,
+    "precision": 0.988,
+    "recall": 0.858
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu_part_random___val_seq_04",
+    "val_dataset": "umm___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.966,
+    "precision": 0.985,
+    "recall": 0.947
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "um_and_uu_part_random___val_seq_05",
+    "val_dataset": "umm___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.961,
+    "precision": 0.984,
+    "recall": 0.94
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu_part_random___val_seq_01",
+    "val_dataset": "umm___val_seq_01",
+    "suffix": "01",
+    "f_score": 0.942,
+    "precision": 0.987,
+    "recall": 0.902
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu_part_random___val_seq_02",
+    "val_dataset": "umm___val_seq_02",
+    "suffix": "02",
+    "f_score": 0.911,
+    "precision": 0.991,
+    "recall": 0.843
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu_part_random___val_seq_03",
+    "val_dataset": "umm___val_seq_03",
+    "suffix": "03",
+    "f_score": 0.932,
+    "precision": 0.989,
+    "recall": 0.882
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu_part_random___val_seq_04",
+    "val_dataset": "umm___val_seq_04",
+    "suffix": "04",
+    "f_score": 0.938,
+    "precision": 0.986,
+    "recall": 0.894
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "um_and_uu_part_random___val_seq_05",
+    "val_dataset": "umm___val_seq_05",
+    "suffix": "05",
+    "f_score": 0.959,
+    "precision": 0.984,
+    "recall": 0.935
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "cobblestone_small",
+    "val_dataset": "cobblestone_small",
+    "suffix": "",
+    "f_score": 0.832,
+    "precision": 0.772,
+    "recall": 0.902
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "cobblestone_small_01",
+    "val_dataset": "cobblestone_small_01",
+    "suffix": "01",
+    "f_score": 0.724,
+    "precision": 0.632,
+    "recall": 0.847
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "cobblestone_small_02",
+    "val_dataset": "cobblestone_small_02",
+    "suffix": "02",
+    "f_score": 0.906,
+    "precision": 0.893,
+    "recall": 0.92
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "cobblestone_small_03",
+    "val_dataset": "cobblestone_small_03",
+    "suffix": "03",
+    "f_score": 0.935,
+    "precision": 0.936,
+    "recall": 0.934
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "cobblestone_small_04",
+    "val_dataset": "cobblestone_small_04",
+    "suffix": "04",
+    "f_score": 0.91,
+    "precision": 0.873,
+    "recall": 0.951
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "cobblestone_small",
+    "val_dataset": "cobblestone_small",
+    "suffix": "",
+    "f_score": 0.817,
+    "precision": 0.801,
+    "recall": 0.835
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "cobblestone_small_01",
+    "val_dataset": "cobblestone_small_01",
+    "suffix": "01",
+    "f_score": 0.664,
+    "precision": 0.593,
+    "recall": 0.756
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "cobblestone_small_02",
+    "val_dataset": "cobblestone_small_02",
+    "suffix": "02",
+    "f_score": 0.892,
+    "precision": 0.861,
+    "recall": 0.926
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "cobblestone_small_03",
+    "val_dataset": "cobblestone_small_03",
+    "suffix": "03",
+    "f_score": 0.923,
+    "precision": 0.935,
+    "recall": 0.91
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "cobblestone_small_04",
+    "val_dataset": "cobblestone_small_04",
+    "suffix": "04",
+    "f_score": 0.885,
+    "precision": 0.848,
+    "recall": 0.926
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "cobblestone_small",
+    "val_dataset": "cobblestone_small",
+    "suffix": "",
+    "f_score": 0.953,
+    "precision": 0.9627,
+    "recall": 0.9435
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "cobblestone_small_01",
+    "val_dataset": "cobblestone_small_01",
+    "suffix": "01",
+    "f_score": 0.9528,
+    "precision": 0.963,
+    "recall": 0.9429
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "cobblestone_small_02",
+    "val_dataset": "cobblestone_small_02",
+    "suffix": "02",
+    "f_score": 0.941,
+    "precision": 0.9301,
+    "recall": 0.9522
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "cobblestone_small_03",
+    "val_dataset": "cobblestone_small_03",
+    "suffix": "03",
+    "f_score": 0.962,
+    "precision": 0.9729,
+    "recall": 0.9513
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "cobblestone_small_04",
+    "val_dataset": "cobblestone_small_04",
+    "suffix": "04",
+    "f_score": 0.9308,
+    "precision": 0.8997,
+    "recall": 0.9642
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "cobblestone_small",
+    "val_dataset": "cobblestone_small",
+    "suffix": "",
+    "f_score": 0.8971,
+    "precision": 0.9568,
+    "recall": 0.8444
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "cobblestone_small_01",
+    "val_dataset": "cobblestone_small_01",
+    "suffix": "01",
+    "f_score": 0.9249,
+    "precision": 0.9523,
+    "recall": 0.899
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "cobblestone_small_02",
+    "val_dataset": "cobblestone_small_02",
+    "suffix": "02",
+    "f_score": 0.9223,
+    "precision": 0.9129,
+    "recall": 0.9318
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "cobblestone_small_03",
+    "val_dataset": "cobblestone_small_03",
+    "suffix": "03",
+    "f_score": 0.9352,
+    "precision": 0.9479,
+    "recall": 0.9228
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "cobblestone_small_04",
+    "val_dataset": "cobblestone_small_04",
+    "suffix": "04",
+    "f_score": 0.9184,
+    "precision": 0.8951,
+    "recall": 0.9428
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original",
+    "val_dataset": "cobblestone_small",
+    "suffix": "",
+    "f_score": 0.832,
+    "precision": 0.753,
+    "recall": 0.929
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_01",
+    "val_dataset": "cobblestone_small_01",
+    "suffix": "01",
+    "f_score": 0.687,
+    "precision": 0.555,
+    "recall": 0.902
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_02",
+    "val_dataset": "cobblestone_small_02",
+    "suffix": "02",
+    "f_score": 0.916,
+    "precision": 0.883,
+    "recall": 0.95
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_03",
+    "val_dataset": "cobblestone_small_03",
+    "suffix": "03",
+    "f_score": 0.952,
+    "precision": 0.944,
+    "recall": 0.96
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_04",
+    "val_dataset": "cobblestone_small_04",
+    "suffix": "04",
+    "f_score": 0.909,
+    "precision": 0.869,
+    "recall": 0.953
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original",
+    "val_dataset": "cobblestone_small",
+    "suffix": "",
+    "f_score": 0.796,
+    "precision": 0.703,
+    "recall": 0.917
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_01",
+    "val_dataset": "cobblestone_small_01",
+    "suffix": "01",
+    "f_score": 0.63,
+    "precision": 0.475,
+    "recall": 0.934
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_02",
+    "val_dataset": "cobblestone_small_02",
+    "suffix": "02",
+    "f_score": 0.916,
+    "precision": 0.876,
+    "recall": 0.959
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_03",
+    "val_dataset": "cobblestone_small_03",
+    "suffix": "03",
+    "f_score": 0.948,
+    "precision": 0.94,
+    "recall": 0.955
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_04",
+    "val_dataset": "cobblestone_small_04",
+    "suffix": "04",
+    "f_score": 0.902,
+    "precision": 0.86,
+    "recall": 0.949
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original",
+    "val_dataset": "cobblestone_small",
+    "suffix": "",
+    "f_score": 0.9525,
+    "precision": 0.9865,
+    "recall": 0.9207
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original_01",
+    "val_dataset": "cobblestone_small_01",
+    "suffix": "01",
+    "f_score": 0.9723,
+    "precision": 0.985,
+    "recall": 0.9599
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original_02",
+    "val_dataset": "cobblestone_small_02",
+    "suffix": "02",
+    "f_score": 0.9534,
+    "precision": 0.9453,
+    "recall": 0.9617
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original_03",
+    "val_dataset": "cobblestone_small_03",
+    "suffix": "03",
+    "f_score": 0.9759,
+    "precision": 0.9711,
+    "recall": 0.9806
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original_04",
+    "val_dataset": "cobblestone_small_04",
+    "suffix": "04",
+    "f_score": 0.9436,
+    "precision": 0.9123,
+    "recall": 0.9772
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original",
+    "val_dataset": "cobblestone_small",
+    "suffix": "",
+    "f_score": 0.9308,
+    "precision": 0.9807,
+    "recall": 0.8857
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original_01",
+    "val_dataset": "cobblestone_small_01",
+    "suffix": "01",
+    "f_score": 0.9742,
+    "precision": 0.9739,
+    "recall": 0.9745
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original_02",
+    "val_dataset": "cobblestone_small_02",
+    "suffix": "02",
+    "f_score": 0.9547,
+    "precision": 0.9586,
+    "recall": 0.9509
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original_03",
+    "val_dataset": "cobblestone_small_03",
+    "suffix": "03",
+    "f_score": 0.9773,
+    "precision": 0.977,
+    "recall": 0.9775
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original_04",
+    "val_dataset": "cobblestone_small_04",
+    "suffix": "04",
+    "f_score": 0.9607,
+    "precision": 0.9537,
+    "recall": 0.9678
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_random",
+    "val_dataset": "cobblestone_small",
+    "suffix": "",
+    "f_score": 0.793,
+    "precision": 0.676,
+    "recall": 0.96
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_random_01",
+    "val_dataset": "cobblestone_small_01",
+    "suffix": "01",
+    "f_score": 0.689,
+    "precision": 0.545,
+    "recall": 0.935
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_random_02",
+    "val_dataset": "cobblestone_small_02",
+    "suffix": "02",
+    "f_score": 0.892,
+    "precision": 0.879,
+    "recall": 0.906
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_random_03",
+    "val_dataset": "cobblestone_small_03",
+    "suffix": "03",
+    "f_score": 0.939,
+    "precision": 0.935,
+    "recall": 0.944
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": true,
+    "train_dataset": "original_random_04",
+    "val_dataset": "cobblestone_small_04",
+    "suffix": "04",
+    "f_score": 0.88,
+    "precision": 0.834,
+    "recall": 0.932
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_random",
+    "val_dataset": "cobblestone_small",
+    "suffix": "",
+    "f_score": 0.772,
+    "precision": 0.645,
+    "recall": 0.961
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_random_01",
+    "val_dataset": "cobblestone_small_01",
+    "suffix": "01",
+    "f_score": 0.616,
+    "precision": 0.453,
+    "recall": 0.961
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_random_02",
+    "val_dataset": "cobblestone_small_02",
+    "suffix": "02",
+    "f_score": 0.893,
+    "precision": 0.833,
+    "recall": 0.961
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_random_03",
+    "val_dataset": "cobblestone_small_03",
+    "suffix": "03",
+    "f_score": 0.918,
+    "precision": 0.91,
+    "recall": 0.926
+  },
+  {
+    "model_type": "usnet",
+    "is_pretrained": false,
+    "train_dataset": "original_random_04",
+    "val_dataset": "cobblestone_small_04",
+    "suffix": "04",
+    "f_score": 0.866,
+    "precision": 0.794,
+    "recall": 0.952
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original_random",
+    "val_dataset": "cobblestone_small",
+    "suffix": "",
+    "f_score": 0.9351,
+    "precision": 0.9682,
+    "recall": 0.9041
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original_random_01",
+    "val_dataset": "cobblestone_small_01",
+    "suffix": "01",
+    "f_score": 0.9338,
+    "precision": 0.9703,
+    "recall": 0.8999
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original_random_02",
+    "val_dataset": "cobblestone_small_02",
+    "suffix": "02",
+    "f_score": 0.9419,
+    "precision": 0.9414,
+    "recall": 0.9424
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original_random_03",
+    "val_dataset": "cobblestone_small_03",
+    "suffix": "03",
+    "f_score": 0.9481,
+    "precision": 0.9588,
+    "recall": 0.9376
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": true,
+    "train_dataset": "original_random_04",
+    "val_dataset": "cobblestone_small_04",
+    "suffix": "04",
+    "f_score": 0.9259,
+    "precision": 0.8863,
+    "recall": 0.9693
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original_random",
+    "val_dataset": "cobblestone_small",
+    "suffix": "",
+    "f_score": 0.904,
+    "precision": 0.9528,
+    "recall": 0.8599
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original_random_01",
+    "val_dataset": "cobblestone_small_01",
+    "suffix": "01",
+    "f_score": 0.9227,
+    "precision": 0.9481,
+    "recall": 0.8987
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original_random_02",
+    "val_dataset": "cobblestone_small_02",
+    "suffix": "02",
+    "f_score": 0.9155,
+    "precision": 0.9171,
+    "recall": 0.9139
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original_random_03",
+    "val_dataset": "cobblestone_small_03",
+    "suffix": "03",
+    "f_score": 0.9192,
+    "precision": 0.923,
+    "recall": 0.9154
+  },
+  {
+    "model_type": "road-former",
+    "is_pretrained": false,
+    "train_dataset": "original_random_04",
+    "val_dataset": "cobblestone_small_04",
+    "suffix": "04",
+    "f_score": 0.9014,
+    "precision": 0.8668,
+    "recall": 0.939
+  }
+]
